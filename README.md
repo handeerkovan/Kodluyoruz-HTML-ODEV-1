@@ -1,3 +1,3 @@
-# 1.Adım: Kodluyoruz HTML ÖDEV 1 adlı dosyayı Visual Studio Code programına sürükleyiniz.
-# 2.Adım: VSC'de sol üstte bulunan Run tuşuna basınız.
-# 3.Son Adım: Start Debugging'e basarak HTML adresini web sayfası olarak görüntüleyiniz..
+# 1.Adım: Kodluyoruz-HTML-ODEV-1 adlı zip klasörünü extract yapın ve daha sonra Visual Studio Code programına sürükleyin.
+# 2.Adım: Visual Studio Code'da sol üstte bulunan Run tuşuna basınız.
+# 3.Adım: Start Debugging'e basarak HTML adresini web sayfası olarak görüntüleyin.
